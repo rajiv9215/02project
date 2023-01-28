@@ -1,0 +1,68 @@
+.welcome{
+    padding-top: 2rem;
+    font-family: 'Courier New', monospace;
+  
+}
+.r1{
+   color:red;
+}
+.navbar-brand{
+ font-weight: bold;
+ letter-spacing: 0.2em;
+ font-family: "Brush Script MT", cursive;
+ font-size:25px;
+}
+.intro{
+    font-weight:normal; 
+    text-align: justify; 
+    font-family:"Times New Roman", Times, serif;
+}
+.img-2{
+    border-radius: 500px;
+    padding-left: 2rem;
+    height: 20rem;
+    width: 200rem;
+}
+.a{
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+    /* background-color: #f6f7f9; */
+    text-align: center;
+    margin: 10px;
+    /* box-shadow: 3px 2px 3px 1px #dcdde1; */
+    line-height: 63px;
+    text-decoration: none;
+ }
+ .a i{
+    transition: all 0.3s linear;
+ 
+ }
+ .a:hover i{
+    transform: scale(1.4);
+ }
+ .fa-instagram{
+    color: #e84393;
+ }
+ .fa-youtube{
+    color: #e84118;
+ }
+ .fa-linkedin{
+    color: #0097e6;
+ }
+ .firstdiv ul a{
+    text-decoration: none;
+ }
+ .follow{
+    font-family:"Times New Roman", Times, serif;
+ }
+ .a1{
+    text-decoration: none;
+ }
+ .btn-last{
+    /* padding: 5px; */
+    margin: 10px;
+ }
+ .stiky{
+   margin-top:4rem;
+ }
